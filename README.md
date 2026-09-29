@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="Coding_Garden.gif" width="90%" alt="Animated Preview">
 </p>
+
+
+
 ## Hey, I'm Maryam! 👋
 
 ```text
