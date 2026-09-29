@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Github.jpeg" width="90%" alt="Animated Preview">
-</p>
+
 <!--
 **WorkbyMaryam/WorkbyMaryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="Coding_Garden.gif" width="90%" alt="Animated Preview">
+</p>
 ## Hey, I'm Maryam! 👋
 
 ```text
