@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="Github_image.jpg" width="90%" alt="Animated Preview">
+  <img src="Github_.png" width="90%" alt="Animated Preview">
 </p>
 
 <h2 align="center">Hey, I'm Maryam!👋</h2>
