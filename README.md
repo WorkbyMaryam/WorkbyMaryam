@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   <a href="YOUR_RESUME_LINK">
     <img src="https://img.shields.io/badge/My%20Resume-4A4A4A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="maryamnasir5685@gmail.com"/>
+  <a href="mailto:maryamnasir5685@gmail.com">
+    <img src="https://img.shields.io/badge/My%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
