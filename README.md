@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/My%20Resume-4A4A4A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/My%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="maryamnasir5685@gmail.com"/>
   </a>
 </p>
 
