@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="Coding_Garden.gif" width="90%" alt="Animated Preview">
+  <img src="Github_image.jpg" width="90%" alt="Animated Preview">
 </p>
 
-<h2 align="center">Hey, I'm Maryam!</h2>
+<h2 align="center">Hey, I'm Maryam!👋</h2>
 
 
-
-## Hey, I'm Maryam! 👋
 
 ```text
                  🌱  Data Science @ FAST  •  Data Engineering  •  AI/ML  •  Cloud
