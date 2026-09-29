@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img src="Coding_Garden.gif" width="90%" alt="Animated Preview">
 </p>
 
+<h2 align="center">Hey, I'm Maryam!</h2>
+
 
 
 ## Hey, I'm Maryam! 👋
