@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Github.jpeg" width="90%" alt="Animated Preview">
+</p>
 <!--
 **WorkbyMaryam/WorkbyMaryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
